@@ -12,4 +12,4 @@ Tools and Technologies
 •	Jupyter Notebook
 •	 Pandas Library
 Results
-Link to dashboard - [https://public.tableau.com/shared/CGQJ3NHDF?:display_count=n&:origin=viz_share_link](NYC_Citibike analysis)
+Link to dashboard - [https://public.tableau.com/shared/CGQJ3NHDF?:display_count=n&:origin=viz_share_link] (NYC_Citibike_analysis)
