@@ -18,4 +18,4 @@ Tools and Technologies
 •	 Pandas Library
 ## Results
 
-Link to dashboard - [https://public.tableau.com/shared/CGQJ3NHDF?:display_count=n&:origin=viz_share_link](NYC_Citibike_analysis)
+Link to dashboard - [NYC_Citibike_analysis](https://public.tableau.com/shared/CGQJ3NHDF?:display_count=n&:origin=viz_share_link)
