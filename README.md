@@ -26,21 +26,27 @@ Most of the trips are under half hour in length, with an instant lessening in nu
 
 ## Gender breakdown and checkout times
 The number of male riders are larger when compared with female riders. But the pattern remains the same,most of the trips are under 20 minutes 
+
 <img width="943" alt="Screen Shot 2022-04-02 at 3 51 31 PM" src="https://user-images.githubusercontent.com/72629108/161404062-39ceba97-c82d-481d-b4c5-d7f73be016d8.png">
 ## Trips by Weekday per Hour
 From this heat map we can conclude that in August the most number of bike ride happened on Thursday between 5 pmand 6 pm
+
 <img width="943" alt="Screen Shot 2022-04-02 at 3 53 00 PM" src="https://user-images.githubusercontent.com/72629108/161404115-331b327f-de01-4eaa-bf8f-4a4a807565bb.png">
 
 ## Trips by Gender(Weekday per Hour)
 Eventhough you see less female riders,peak hours of both male and female riders are same.
+
 <img width="943" alt="Screen Shot 2022-04-02 at 3 53 16 PM" src="https://user-images.githubusercontent.com/72629108/161404142-5ab72ba4-61d3-4a97-8f42-7525bf8af489.png">
 
 ## User Trips by Gender by Weekday
 This heatmap shows that most of the subscribers are male and Thursday is the peak day
+
 <img width="943" alt="Screen Shot 2022-04-02 at 3 53 26 PM" src="https://user-images.githubusercontent.com/72629108/161404177-03f8c166-8b19-426e-a732-e5b5dded5078.png">
 ## Average trip Duration
+
 <img width="1060" alt="Screen Shot 2022-04-02 at 4 05 32 PM" src="https://user-images.githubusercontent.com/72629108/161404303-f4297daf-a98e-42ae-98b9-d0b0c7108acf.png">
 ## Bike Utilization
+
 <img width="1229" alt="Screen Shot 2022-04-02 at 4 05 56 PM" src="https://user-images.githubusercontent.com/72629108/161404342-b3610578-60f9-41c0-bdac-de2fcd625093.png">
 
 
